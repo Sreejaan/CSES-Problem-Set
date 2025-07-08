@@ -1,0 +1,1 @@
+{"name":"Local: 6_round_trip","url":"c:\\Users\\sreej\\Desktop\\PC\\CSES\\Graph\\6_round_trip.cpp","tests":[{"id":1751974323902,"input":"5 6\n1 3\n1 2\n5 3\n1 5\n2 4\n4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sreej\\Desktop\\PC\\CSES\\Graph\\6_round_trip.cpp","group":"local","local":true}
