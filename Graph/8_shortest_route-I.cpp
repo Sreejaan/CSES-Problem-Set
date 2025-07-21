@@ -13,7 +13,7 @@ int main()
     }
     priority_queue<pair<long long int, int>, vector<pair<long long int, int>>, greater<pair<long long int, int>>> pq;
     pq.push({0, 1});
-    vector<long long int> dis(n+1, LONG_LONG_MAX);
+    vector<long long int> dis(n+1, LONG_MAX);
     dis[1]=0;
     while(!pq.empty()){
         auto x = pq.top(); pq.pop();
